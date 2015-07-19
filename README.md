@@ -1,2 +1,2 @@
 # test-chamber
-A simple test chamber for the bot
+A simple test chamber for the bot.
